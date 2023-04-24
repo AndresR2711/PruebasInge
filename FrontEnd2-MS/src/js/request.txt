@@ -1,0 +1,25 @@
+
+
+Los endpoints que hasta el momento he ocupado son:
+Create:
+1. Insertar registro patentado (json object) ✅
+2. Insertar registro patente (json object) ✅
+3. Insertar imagen o archivo registro patentado (file) ✅
+4. Insertar imagen registro patente ✅
+
+Read:
+1. Listar todos los registros de patentes ✅
+2. Listar todos los registros de patentados ✅
+3. Traer imagen o archivo de registro patentado 
+4. Traer imagen de registro patente
+5. Listar todas las patentes de un patentado por cédula ✅
+6. Traer ya sea patentado o administrado dependiendo del usuario (recibe json object tipo usuario y devuelve patentado o administrador)
+
+Update:
+1  actualizar estado de patente y patentado ✅
+2. Actualizar patente✅
+3.Cambio de contraseña✅
+4. Deshabitar o habilitar patentado✅
+
+
+Seguridad
